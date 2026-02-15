@@ -1,5 +1,7 @@
 # Informe Base de Datos – Tienda de Tecnología
 
+Por medio de la presente, se hace entrega de la actividad elaborada por las aprendices Adriana Daza y Sara Rodríguez
+
 ##  Descripción del problema
 
 Una tienda de tecnología vende productos como computadores, celulares y accesorios.
